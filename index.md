@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+Exploring computer science
+
+([typing test] https://github.com/CharityD/ECS-Portfolio-2020/blob/master/images/Screen%20Shot%202020-08-26%20at%201.51.54%20PM.png)
 
 You can use the [editor on GitHub](https://github.com/CharityD/ECS-Portfolio-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
